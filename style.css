@@ -79,9 +79,9 @@ footer {
   }
 }
 @media screen and (max-width: 576px) {
-  main{
-    height: 100%;
-    }
+
+
+
   h2 {
     font-size: 1em;
     text-align: center;
@@ -89,6 +89,7 @@ footer {
   .hasil {
     width: 95%;
     align-items: center;
+
 
   }
   h1{
