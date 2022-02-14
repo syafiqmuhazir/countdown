@@ -83,14 +83,17 @@ footer {
     height: 100%;
     }
   h2 {
-    font-size: 1.8em;
+    font-size: 1em;
     text-align: center;
   }
   .hasil {
-    flex-direction: column;
+    width: 95%;
     align-items: center;
-    justify-content: space-evenly;
+
   }
+  h1{
+    font-size: 1em;
+    }
   .form {
     flex-direction: column;
     justify-content: space-evenly;
