@@ -79,9 +79,6 @@ footer {
   }
 }
 @media screen and (max-width: 576px) {
-
-
-
   h2 {
     font-size: 1em;
     text-align: center;
@@ -89,8 +86,6 @@ footer {
   .hasil {
     width: 95%;
     align-items: center;
-
-
   }
   h1{
     font-size: 1em;
@@ -98,7 +93,7 @@ footer {
   .form {
     flex-direction: column;
     justify-content: space-evenly;
-    height: 40%;
+    height: 70%;
     width: 100%;
   }
   .datepicker-input,
